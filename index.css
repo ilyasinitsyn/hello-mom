@@ -1,0 +1,18 @@
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+p {
+    font-size: 40px;
+    color:brown;
+}
+a {
+    font-size: 30px;
+}
+button {
+    font-size: 30px;
+}
+.output {
+    font-size: 30px;
+    color:red;
+}
